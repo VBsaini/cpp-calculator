@@ -1,0 +1,3 @@
+C:\Users\vishu\OneDrive\Desktop\projects\cpp\desktopcrashcourse\desktopcrashcourse\x64\Debug\desktopcrashcourse.vcxprojAssemblyReference.cache
+C:\Users\vishu\OneDrive\Desktop\projects\cpp\desktopcrashcourse\desktopcrashcourse\x64\Debug\desktopcrashcourse.MyForm.resources
+C:\Users\vishu\OneDrive\Desktop\projects\cpp\desktopcrashcourse\desktopcrashcourse\x64\Debug\desktopcrashcourse.vcxproj.GenerateResource.cache
